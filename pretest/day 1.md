@@ -18,7 +18,7 @@
    - b. Variabel tetap (tidak bisa diubah)
    - c. Variabel bisa diubah
    - d. Fungsi cetak
-   Jawaban : C
+   Jawaban : B
 
 3. Apa hasil dari `println(5 + 3 * 2)`?
 
@@ -63,7 +63,7 @@
    - b. Menampilkan teks
    - c. Membaca input
    - d. Membuat variabel
-   Jawaban : B
+   Jawaban : C
 
 8. Apa hasil dari perbandingan berikut: `5 > 3 && 2 < 1`?
 
@@ -94,7 +94,7 @@ Jawaban : A
 ### ✅ **Bagian B – Jawaban Penjelasan Singkat (15 Soal)**
 
 11. Jelaskan perbedaan `val` dan `var` di Kotlin.
-Jawaban : var adalah pendeskripsian variabel yang mutable (bisa diubah) sedangkan var bersifat immutable (tidak bisa diubah)
+Jawaban : var adalah pendeskripsian variabel yang mutable (bisa diubah) sedangkan val bersifat immutable (tidak bisa diubah)
 12. Sebutkan dua tipe data numerik dalam Kotlin.
 Jawaban : Int dan Double
 13. Apa kegunaan fungsi `println()`?
