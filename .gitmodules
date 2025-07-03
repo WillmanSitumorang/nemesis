@@ -1,3 +1,6 @@
 [submodule "exercise/day 2/tim challenge/final-basic-kotlin-team-1"]
 	path = exercise/day 2/tim challenge/final-basic-kotlin-team-1
 	url = https://github.com/adhli-business/final-basic-kotlin-team-1.git
+[submodule "exercise/day 2/tim challenge/LoginApp"]
+	path = exercise/day 2/tim challenge/LoginApp
+	url = https://github.com/adhli-business/LoginApp.git
