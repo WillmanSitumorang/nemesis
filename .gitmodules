@@ -4,3 +4,6 @@
 [submodule "exercise/day 2/tim challenge/LoginApp"]
 	path = exercise/day 2/tim challenge/LoginApp
 	url = https://github.com/adhli-business/LoginApp.git
+[submodule "exercise/day 3/DailyNotesApp"]
+	path = exercise/day 3/DailyNotesApp
+	url = https://github.com/WillmanSitumorang/daily-notes-app.git
