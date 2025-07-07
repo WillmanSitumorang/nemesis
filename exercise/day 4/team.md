@@ -1,13 +1,15 @@
 team 1
-adhli
+hafizh
 willman
-lel
 
 team 2
-ken
 dena
-raven
+adhli
 
 team 3
 vincent
-hafizh
+raven
+
+team 4
+ken
+lel

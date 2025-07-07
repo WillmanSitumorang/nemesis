@@ -7,3 +7,6 @@
 [submodule "exercise/day 3/DailyNotesApp"]
 	path = exercise/day 3/DailyNotesApp
 	url = https://github.com/WillmanSitumorang/daily-notes-app.git
+[submodule "exercise/day 4/fragment-multistep-signup-team-1"]
+	path = exercise/day 4/fragment-multistep-signup-team-1
+	url = https://github.com/AhmadHafizh19/fragment-multistep-signup-team-1.git
