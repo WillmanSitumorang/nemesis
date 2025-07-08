@@ -10,3 +10,6 @@
 [submodule "exercise/day 4/fragment-multistep-signup-team-1"]
 	path = exercise/day 4/fragment-multistep-signup-team-1
 	url = https://github.com/AhmadHafizh19/fragment-multistep-signup-team-1.git
+[submodule "exercise/day 5/user-manager-day-5"]
+	path = exercise/day 5/user-manager-day-5
+	url = https://github.com/adhli-business/user-manager-day-5.git
